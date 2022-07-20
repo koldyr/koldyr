@@ -1,4 +1,4 @@
-# Hello, World! My name is Denis Halitsky - aka [koldyr][github] 👋
+# Hello, World! My name is Denis Halitsky - aka [koldyr](https://github.com/koldyr) 👋
 
 ## 👌 I'm a Drummer/Programmer/Father
 
